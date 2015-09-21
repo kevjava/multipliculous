@@ -1,0 +1,12 @@
+<resources>
+    <color name="primary">#229900</color>
+    <color name="primary_dark">#113300</color>
+    <color name="accent">#994400</color>
+
+    <color name="primary_light">#ddeedd</color>
+
+    <style name="problem">
+        <item name="android:layout_margin">5dp</item>
+        <item name="android:textSize">40dp</item>
+    </style>
+</resources>

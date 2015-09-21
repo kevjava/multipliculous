@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Multipliculous</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="label_solved">Solved: 0</string>
+    <string name="label_togo">To go: 0</string>
+    <string name="number_of_problems">Number of problems</string>
+    <string name="label_give_me">Give me</string>
+    <string name="label_problems">problems</string>
+    <string name="label_go">Go</string>
+    <string name="label_times">×</string>
+    <string name="label_xx">XX</string>
+    <string name="label_equals">=</string>
+    <string name="label_button1">1</string>
+    <string name="label_button2">2</string>
+    <string name="label_button3">3</string>
+    <string name="label_button4">4</string>
+    <string name="label_button5">5</string>
+    <string name="label_button6">6</string>
+    <string name="label_button7">7</string>
+    <string name="label_button8">8</string>
+    <string name="label_button9">9</string>
+    <string name="label_button0">0</string>
+    <string name="label_buttonOK">OK</string>
+    <string name="label_buttonClear">Clear</string>
+    <string name="seconds_left_label">Seconds left:</string>
+    <string name="label_questionmarks">\??</string>
+    <string name="label_well_done">Well done!</string>
+    <string name="label_completed">Completed: </string>
+    <string name="label_correct">Correct: </string>
+    <string name="label_percentage">Percentage: </string>
+</resources>
